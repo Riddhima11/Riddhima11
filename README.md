@@ -1,4 +1,3 @@
-```markdown
 <!-- 🚀 Modern Animated Header | Data Science Learner -->
 
 <p align="center">
